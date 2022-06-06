@@ -1,2 +1,2 @@
-# cnn_diss_repo
+# Dissertation
 This research proposes a system to aid the early stage of home renovation through the use of semantic image segmentation techniques on google satellite maps data within a data pipeline shown in Figure 1.1, to enable recommendations to users for architecture extension work. Although many semantic image segmentation techniques exist, this study shall look specifically at applying deep convolution neural networks. An assessment will be made of past techniques to understand the evolution of techniques within the field and their effectiveness against the current deep learning technologies.
