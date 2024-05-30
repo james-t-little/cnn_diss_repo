@@ -1,4 +1,2 @@
 # Dissertation
-•	Analysed deep learning architectures and their proficiency at image segmentation on satellite image data to increase spatial analysis and residential property optimisation.
-•	Proposed a novel parcel boundary segmentation dataset sourcing 3,888 image segmentation pairs.
-•	Achieved a classification accuracy of 90.2% utilising the U-Net (encoder-decoder) architecture whilst overcoming complex issues caused by image occlusion and ambiguous visual stimuli.
+Analysed deep learning architectures and their proficiency at image segmentation on satellite image data to increase spatial analysis and residential property optimisation. Proposed a novel parcel boundary segmentation dataset sourcing 3,888 image segmentation pairs. Achieved a classification accuracy of 90.2% utilising the U-Net (encoder-decoder) architecture whilst overcoming complex issues caused by image occlusion and ambiguous visual stimuli.
